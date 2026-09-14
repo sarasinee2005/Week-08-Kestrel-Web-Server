@@ -356,6 +356,8 @@ public class DualSerialBridgeWorker : BackgroundService
    * ถ่ายให้เห็น **รหัสนักศึกษา** และผลการคำนวณคู่เกจ์
    * นิ้วมือหมุน Potentiometer บนบอร์ด ESP32 จริง แล้วเกจ์ฝั่งซ้ายกวาดตามมืออย่างชัดเจน
    * เกจ์ฝั่งขวาขยับตามข้อมูลช่อง B (Simulation หรือ เซนเซอร์ตัวที่ 2)
+
+     คลิปวิดีโอ [https://youtube.com/shorts/g0rNNZSKnW0?feature=share](https://youtube.com/shorts/g0rNNZSKnW0?feature=share)
 2. **รายงาน (markdown/pull request) สรุปผลการทดลอง**
    * ระบุเลขรหัสนักศึกษาและแสดงวิธีคำนวณหาเกจ์ซ้าย-ขวา
      <img width="620" height="260" alt="image" src="https://github.com/user-attachments/assets/27bf7683-02eb-453d-aa90-4d92733f71aa" />
